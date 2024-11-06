@@ -8,7 +8,7 @@ format:
             buttons: false
         slide-number: true
         logo: images/logo.png
-        css: styles.css
+        css: docs/styles.css
         footer: <https://www.necsu.nhs.uk/what-we-offer/consulting-services/consultancy/>
 fontawesome: true
 ---
